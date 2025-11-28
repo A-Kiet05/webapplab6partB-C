@@ -1,0 +1,16 @@
+com\student\dao\StudentDAO.class
+com\student\filter\AdminFilter.class
+com\mynetbeanproject\studentmanagementmvc\JakartaRestConfiguration.class
+com\student\filter\AuthFilter.class
+com\student\controller\LogoutController.class
+com\student\controller\LoginController.class
+com\student\controller\DashBoardController.class
+com\student\model\Student.class
+com\mynetbeanproject\studentmanagementmvc\resources\JakartaEE10Resource.class
+com\student\controller\ThemeController.class
+com\student\dao\UserDAO.class
+com\student\model\User.class
+com\student\utils\CookieUtil.class
+com\student\utils\PasswordHashGenerator.class
+com\student\controller\ChangePasswordController.class
+com\student\controller\StudentController.class
